@@ -15,7 +15,6 @@
     </filter>
   </defs>
 
-  <rect width="900" height="150" rx="18" fill="#251718"/>
 
   <text x="450" y="88"
         text-anchor="middle"
